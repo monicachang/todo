@@ -63,3 +63,16 @@ input {
     padding: 10px;
     font-size: 0.8em;
 }
+
+.delete-item {
+    float: right;
+    padding: 2px;
+}
+
+.edit-item {
+    margin: 10px;
+}
+
+.doneButton {
+    margin: 5px;
+}
